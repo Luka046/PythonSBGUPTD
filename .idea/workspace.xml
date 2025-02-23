@@ -5,10 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14c5223f-7531-4584-905d-0e026963d938" name="Changes" comment="добавлен комментарий">
-      <change afterPath="$PROJECT_DIR$/src/lab4/god.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/parol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/sveta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/vagon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/10.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/10.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/10.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/christmas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/example.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/new_year.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/womens_day.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/6.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/7.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/8.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/8.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/8.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/9.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/9.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/9.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/9.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/zona.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +78,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10.1.executor": "Run",
+    "Python.10.2.executor": "Run",
+    "Python.10.3.executor": "Run",
     "Python.3.1.executor": "Run",
     "Python.3.2.executor": "Run",
     "Python.3.4.executor": "Run",
     "Python.3.5.executor": "Run",
+    "Python.5.1.executor": "Run",
+    "Python.5.2.executor": "Run",
+    "Python.5.3.executor": "Run",
+    "Python.5.4.executor": "Run",
+    "Python.6.1.executor": "Run",
+    "Python.6.2.executor": "Run",
+    "Python.6.3.executor": "Run",
+    "Python.6.4.executor": "Run",
+    "Python.7.1.executor": "Run",
+    "Python.7.2.executor": "Run",
+    "Python.7.3.executor": "Run",
+    "Python.7.4.executor": "Run",
+    "Python.8.1.executor": "Run",
+    "Python.8.2.executor": "Run",
+    "Python.8.3.executor": "Run",
+    "Python.9.1.executor": "Run",
+    "Python.9.2.executor": "Run",
+    "Python.9.3.executor": "Run",
+    "Python.9.4.executor": "Run",
     "Python.god.executor": "Run",
     "Python.lab1.executor": "Run",
     "Python.lineynoeurovn.executor": "Run",
@@ -75,7 +125,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lab10" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/lab9/images" />
+      <recent name="$PROJECT_DIR$/src/lab9" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -94,7 +147,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740306706738</updated>
-      <workItem from="1740306707739" duration="2244000" />
+      <workItem from="1740306707739" duration="4972000" />
     </task>
     <task id="LOCAL-00001" summary="добавлен комментарий">
       <option name="closed" value="true" />
@@ -120,7 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740307713951</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="добавлен комментарий">
+      <option name="closed" value="true" />
+      <created>1740331190938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740331190938</updated>
+    </task>
+    <task id="LOCAL-00005" summary="добавлен комментарий">
+      <option name="closed" value="true" />
+      <created>1740331443600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740331443600</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,15 +202,37 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonSBGUPTD$3_5.coverage" NAME="3.5 Coverage Results" MODIFIED="1740307517710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
     <SUITE FILE_PATH="coverage/PythonSBGUPTD$3_2.coverage" NAME="3.2 Coverage Results" MODIFIED="1740307470409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$10_1.coverage" NAME="10.1 Coverage Results" MODIFIED="1740335165230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab10" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$6_2.coverage" NAME="6.2 Coverage Results" MODIFIED="1740331852947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab6" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$8_3.coverage" NAME="8.3 Coverage Results" MODIFIED="1740332297528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab8" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$9_1.coverage" NAME="9.1 Coverage Results" MODIFIED="1740334180110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab9" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$5_4.coverage" NAME="5.4 Coverage Results" MODIFIED="1740331749520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab5" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1740331620383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab5" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$9_4.coverage" NAME="9.4 Coverage Results" MODIFIED="1740334991313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab9" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$9_2.coverage" NAME="9.2 Coverage Results" MODIFIED="1740334376746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab9" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$god.coverage" NAME="god Coverage Results" MODIFIED="1740329139626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab4" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$8_1.coverage" NAME="8.1 Coverage Results" MODIFIED="1740332212380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab8" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$preobtemp.coverage" NAME="preobtemp Coverage Results" MODIFIED="1740307372830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$sveta.coverage" NAME="sveta Coverage Results" MODIFIED="1740329230956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab4" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$5_2.coverage" NAME="5.2 Coverage Results" MODIFIED="1740331659173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab5" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$7_3.coverage" NAME="7.3 Coverage Results" MODIFIED="1740332067517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab7" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$lineynoeurovn.coverage" NAME="lineynoeurovn Coverage Results" MODIFIED="1740307346992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$10_2.coverage" NAME="10.2 Coverage Results" MODIFIED="1740335458944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab10" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$7_4.coverage" NAME="7.4 Coverage Results" MODIFIED="1740332130121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab7" />
     <SUITE FILE_PATH="coverage/PythonSBGUPTD$parol.coverage" NAME="parol Coverage Results" MODIFIED="1740329077865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab4" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$8_2.coverage" NAME="8.2 Coverage Results" MODIFIED="1740332257891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab8" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$6_3.coverage" NAME="6.3 Coverage Results" MODIFIED="1740331907550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab6" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$7_1.coverage" NAME="7.1 Coverage Results" MODIFIED="1740331993930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab7" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$9_3.coverage" NAME="9.3 Coverage Results" MODIFIED="1740334918397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab9" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$10_3.coverage" NAME="10.3 Coverage Results" MODIFIED="1740335592480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab10" />
     <SUITE FILE_PATH="coverage/PythonSBGUPTD$3_1.coverage" NAME="3.1 Coverage Results" MODIFIED="1740307456233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
     <SUITE FILE_PATH="coverage/PythonSBGUPTD$vagon.coverage" NAME="vagon Coverage Results" MODIFIED="1740329114646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab4" />
-    <SUITE FILE_PATH="coverage/PythonSBGUPTD$god.coverage" NAME="god Coverage Results" MODIFIED="1740329139626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab4" />
-    <SUITE FILE_PATH="coverage/PythonSBGUPTD$preobtemp.coverage" NAME="preobtemp Coverage Results" MODIFIED="1740307372830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1740331726632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab5" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1740331829788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab6" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$6_4.coverage" NAME="6.4 Coverage Results" MODIFIED="1740331942108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab6" />
     <SUITE FILE_PATH="coverage/PythonSBGUPTD$ploshadkkruga.coverage" NAME="ploshadkkruga Coverage Results" MODIFIED="1740307271360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
     <SUITE FILE_PATH="coverage/PythonSBGUPTD$3_4.coverage" NAME="3.4 Coverage Results" MODIFIED="1740307500192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
     <SUITE FILE_PATH="coverage/PythonSBGUPTD$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1740307080215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab1" />
-    <SUITE FILE_PATH="coverage/PythonSBGUPTD$sveta.coverage" NAME="sveta Coverage Results" MODIFIED="1740329230956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab4" />
-    <SUITE FILE_PATH="coverage/PythonSBGUPTD$lineynoeurovn.coverage" NAME="lineynoeurovn Coverage Results" MODIFIED="1740307346992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$7_2.coverage" NAME="7.2 Coverage Results" MODIFIED="1740332042365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab7" />
   </component>
 </project>
