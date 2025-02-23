@@ -1,32 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="14c5223f-7531-4584-905d-0e026963d938" name="Changes" comment="" />
+    <list default="true" id="14c5223f-7531-4584-905d-0e026963d938" name="Changes" comment="добавлен комментарий">
+      <change afterPath="$PROJECT_DIR$/src/lab3/3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/3.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Luka046"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Luka046/PythonSBGUPTD.git",
+    "accountId": "2fc4973c-aac5-4c48-914d-3195331f8289"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2tREu86at7qQc41Fzy4nmiv2KEG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.3.1.executor": "Run",
+    "Python.3.2.executor": "Run",
+    "Python.3.4.executor": "Run",
+    "Python.3.5.executor": "Run",
+    "Python.lab1.executor": "Run",
+    "Python.lineynoeurovn.executor": "Run",
+    "Python.ploshadkkruga.executor": "Run",
+    "Python.preobtemp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,8 +92,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740306706738</updated>
-      <workItem from="1740306707739" duration="2000" />
+      <workItem from="1740306707739" duration="891000" />
     </task>
+    <task id="LOCAL-00001" summary="добавлен комментарий">
+      <option name="closed" value="true" />
+      <created>1740307012336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740307012336</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавлен комментарий" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлен комментарий" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$3_5.coverage" NAME="3.5 Coverage Results" MODIFIED="1740307517710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$3_2.coverage" NAME="3.2 Coverage Results" MODIFIED="1740307470409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$preobtemp.coverage" NAME="preobtemp Coverage Results" MODIFIED="1740307372830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$ploshadkkruga.coverage" NAME="ploshadkkruga Coverage Results" MODIFIED="1740307271360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$3_4.coverage" NAME="3.4 Coverage Results" MODIFIED="1740307500192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1740307080215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab1" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$lineynoeurovn.coverage" NAME="lineynoeurovn Coverage Results" MODIFIED="1740307346992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
+    <SUITE FILE_PATH="coverage/PythonSBGUPTD$3_1.coverage" NAME="3.1 Coverage Results" MODIFIED="1740307456233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lab3" />
   </component>
 </project>
